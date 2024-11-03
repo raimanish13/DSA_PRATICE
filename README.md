@@ -1,1 +1,1 @@
-# DSA_PRATICE
+DSA_PRATICE Trying to be regualar 
